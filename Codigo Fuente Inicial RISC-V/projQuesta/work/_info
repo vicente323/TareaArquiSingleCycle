@@ -1,0 +1,396 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dE:/Programs
+T_opt
+!s110 1679352035
+V<AQYh[DSP[LaT56DUiB0`1
+Z2 04 22 4 work RISC_V_Single_Cycle_TB fast 0
+=1-b42e994f3372-6418e0e2-3af-4d4
+Z3 !s124 OEM10U46 
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.2;73
+R1
+T_opt1
+!s110 1679356796
+VoKSM^m`?BKSJPFLc8@T1g1
+R2
+=21-b42e994f3372-6418f37c-1f2-5748
+R3
+o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+vAdder_32_Bits
+Z6 !s110 1679356790
+!i10b 1
+!s100 ]]1J@==K`8kPSg5PUDi8W3
+IROHD9`2WL>=Gl_@@elV4P0
+Z7 dC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/projQuesta
+Z8 w1632507120
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Adder_32_Bits.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Adder_32_Bits.v
+!i122 449
+L0 13 16
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z11 !s108 1679356790.000000
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Adder_32_Bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Adder_32_Bits.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@adder_32_@bits
+vALU
+R6
+!i10b 1
+!s100 EfW:oeMT[R[m6XhY<Hi2[0
+IU_8[23LdNHHWnEOjCiKb;2
+R7
+w1679356783
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU.v
+!i122 450
+L0 17 38
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU.v|
+!i113 0
+R12
+R4
+n@a@l@u
+vALU_Control
+R6
+!i10b 1
+!s100 b:Xf7LOIn46OcbWgX4je?2
+IK?Gn1TzfLL2I6e>Xl=RaO2
+R7
+w1679354846
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU_Control.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU_Control.v
+!i122 451
+L0 15 49
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU_Control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/ALU_Control.v|
+!i113 0
+R12
+R4
+n@a@l@u_@control
+vControl
+R6
+!i10b 1
+!s100 0VV1BL?_W^9QGaGMUM<0h2
+IClD6^C:QC4g;FDDUGJ1cH3
+R7
+w1679354002
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Control.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Control.v
+!i122 452
+L0 14 46
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Control.v|
+!i113 0
+R12
+R4
+n@control
+vData_Memory
+Z13 !s110 1679356791
+!i10b 1
+!s100 z86cQICfUFR84NGlVgkA63
+IjZojkiVj_]^@73H0^I6Qe3
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Data_Memory.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Data_Memory.v
+!i122 453
+L0 13 35
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Data_Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Data_Memory.v|
+!i113 0
+R12
+R4
+n@data_@memory
+vDecoder_Register_File
+R13
+!i10b 1
+!s100 McjJ;eT`CL^gKzSaHBkF33
+IXIBlgKQM6W7<L4UzW79Pj3
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Decoder_Register_File.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Decoder_Register_File.v
+!i122 454
+L0 12 50
+R9
+R10
+r1
+!s85 0
+31
+Z14 !s108 1679356791.000000
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Decoder_Register_File.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Decoder_Register_File.v|
+!i113 0
+R12
+R4
+n@decoder_@register_@file
+vImmediate_Unit
+R13
+!i10b 1
+!s100 ZNXT^7MQ@Lcl[05zHeOU10
+I3L:iWOC9cCTGg`K5G[^UE3
+R7
+w1679356547
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Immediate_Unit.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Immediate_Unit.v
+!i122 455
+L0 14 22
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Immediate_Unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Immediate_Unit.v|
+!i113 0
+R12
+R4
+n@immediate_@unit
+vMultiplexer_2_to_1
+R13
+!i10b 1
+!s100 ;:eeJ;AHY7A^Ld9RHQfQ[0
+I?lVG7@0^3?jc3@j55SBQF3
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Multiplexer_2_to_1.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Multiplexer_2_to_1.v
+!i122 456
+L0 13 21
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Multiplexer_2_to_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Multiplexer_2_to_1.v|
+!i113 0
+R12
+R4
+n@multiplexer_2_to_1
+vMUXRegisterFile
+R13
+!i10b 1
+!s100 nBWFB0n:b]lZh_XigEU=]1
+I0_^Zgn=UzDaaf@if0LKZc1
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/MUX_Register_File.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/MUX_Register_File.v
+!i122 457
+L0 2 82
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/MUX_Register_File.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/MUX_Register_File.v|
+!i113 0
+R12
+R4
+n@m@u@x@register@file
+vPC_Register
+R13
+!i10b 1
+!s100 YPRg_iMMTITG1KjIDJWV61
+IW8=:N>T`zk0gd4:n99]N71
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/PC_Register.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/PC_Register.v
+!i122 458
+L0 15 21
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/PC_Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/PC_Register.v|
+!i113 0
+R12
+R4
+n@p@c_@register
+vProgram_Memory
+R13
+!i10b 1
+!s100 GDnBW]4gWnMzPD0==J?2S1
+Ii1Q98S^fM]A6i0nMMl5]S3
+R7
+w1679352011
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Program_Memory.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Program_Memory.v
+!i122 459
+L0 15 28
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Program_Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Program_Memory.v|
+!i113 0
+R12
+R4
+n@program_@memory
+vRegister
+R13
+!i10b 1
+!s100 c`llfJWOXjQN;MYLz^cz:2
+IQX<Kc^EQm`NZga9j>fO?H3
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register.v
+!i122 460
+L0 12 23
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register.v|
+!i113 0
+R12
+R4
+n@register
+vRegister_File
+R13
+!i10b 1
+!s100 R[Rb@T=>j2@IjZam7^kDC0
+I@O]PBj4B>Ag4LMDZCSgFl3
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register_File.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register_File.v
+!i122 461
+L0 15 513
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register_File.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/Register_File.v|
+!i113 0
+R12
+R4
+n@register_@file
+vRISC_V_Single_Cycle
+R13
+!i10b 1
+!s100 :TCI`lmz6Be0noE][iN:Z3
+IaA]9PD3nG_Z@lfEIV=C^`2
+R7
+w1679323256
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle.v
+!i122 462
+L0 20 175
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle.v|
+!i113 0
+R12
+R4
+n@r@i@s@c_@v_@single_@cycle
+vRISC_V_Single_Cycle_TB
+R13
+!i10b 1
+!s100 1^bOZhYVdM<>0g4;c;BaI0
+I=HFYZIQjoW9KOKRdb057m2
+R7
+R8
+8C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle_TB.v
+FC:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle_TB.v
+!i122 463
+L0 15 26
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/bejar/Desktop/8vo/Arqui/Practica2/Codigo Fuente Inicial RISC-V/RISC_V_Single_Cycle_TB.v|
+!i113 0
+R12
+R4
+n@r@i@s@c_@v_@single_@cycle_@t@b
